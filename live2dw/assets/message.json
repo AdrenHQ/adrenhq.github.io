@@ -1,0 +1,74 @@
+{
+    "mouseover": [
+        {
+            "selector": ".reply",
+            "text": ["要吐槽些什么呢?"]
+        },
+        {
+            "selector": "#comment",
+            "text": ["和人交流总是愉快的~"]
+        },
+        {
+            "selector": "#smilies",
+            "text": ["试试表情吧"]
+        },
+        {
+            "selector": ".form-submit #submit",
+            "text": ["写好了吗?那就发射咯~"]
+        },
+        {
+            "selector": ".entry img",
+            "text": ["点击图片可以放大呢"]
+        },
+        {
+            "selector": ".search",
+            "text": ["只输入少量关键字搜索更准确哦"]
+        },
+        {
+            "selector": ".related-item",
+            "text": ["相关文章总是有点奇怪吧?"]
+        },
+        {
+            "selector": ".author-social .email",
+            "text": ["可以很方便的和人联系哦"]
+        },
+        {
+            "selector": ".author-social .archive",
+            "text": ["看看他的更多文章?"]
+        },
+        {
+            "selector": ".post-tag",
+            "text": ["TAG收录不全,可以试试搜索哦"]
+        },
+        {
+            "selector": ".wpulike-robeen",
+            "text": ["他的评论很有意思吗?"]
+        },
+        {
+            "selector": ".comment-author .fa-fw",
+            "text": ["好像是大佬的标记,可以找站长PY换取~"]
+        },
+        {
+            "selector": "#danmu",
+            "text": ["不喜欢弹幕就关闭吧,随时还能开启哦"]
+        },
+        {
+            "selector": "#live2d-manage",
+            "text": ["那我可就藏起来了哦"]
+        },
+        {
+            "selector": ".wpfp-span",
+            "text": ["收藏目前出问题了，真是抱歉。"]
+        },
+        {
+            "selector": "#landlord #live2d",
+            "text": ["嗯???","怎么啦？","警察叔叔，这里有奇怪的人！","新衣服好看嘛？"]
+        }
+    ],
+    "click": [
+        {
+            "selector": "#landlord #live2d",
+            "text": ["是…是不小心碰到的吧", "我的药剂在魔族可是很受欢迎的", "萝莉控什么的……", "干嘛……", "女孩子衣服多一些没关系吧", "我来自手游 药水制作大师 哦~", "我是PIO,是PIO不是POI!给我好好记清楚了.", "我发现一个奇怪的人.", "警察叔叔,就是这个人!", "这里好像真是一个不得了的地方" , "这里有很多像大哥哥这样的人吗?" ,"别打我", "平时有很多猫咪来帮忙炼药哦","幻想次元真好玩，我要充钱~"]
+        }
+    ]
+}

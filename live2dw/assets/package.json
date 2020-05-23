@@ -1,0 +1,39 @@
+{
+  "_from": "live2d-widget-model-pio",
+  "_id": "live2d-widget-model-pio@1.0.0",
+  "_inBundle": false,
+  "_integrity": "sha512-FjQjErj2OxIIw3ZfoCrDvDSGTtUYYMKAncLj7wsCGWqyotNe2I6W4K3GK/e0tyJ25q1JuqJK/OKT1K2njOkYuQ==",
+  "_location": "/live2d-widget-model-pio",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "live2d-widget-model-pio",
+    "name": "live2d-widget-model-pio",
+    "escapedName": "live2d-widget-model-pio",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/live2d-widget-model-pio/-/live2d-widget-model-pio-1.0.0.tgz",
+  "_shasum": "2da75b7e892df34f5c80f1185e7e7f9536bee1a7",
+  "_spec": "live2d-widget-model-pio",
+  "_where": "C:\\Users\\AdrenHQ\\Desktop\\bolg",
+  "author": {
+    "name": "adrenhq"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "l2d",
+  "license": "ISC",
+  "main": "index.js",
+  "name": "live2d-widget-model-pio",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.0"
+}
